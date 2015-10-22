@@ -6,7 +6,6 @@
 //  Copyright © 2015 Ke. All rights reserved.
 //
 // i am modifying it in github...
-// Okay, now i am trying to screw it up. asdjfajdfla;sdjfla;djf
 
 import UIKit
 
